@@ -1,0 +1,27 @@
+# Impostazioni del sito. Modifica i campi segnati con [DA COMPILARE].
+title: "Nome Cognome"            # [DA COMPILARE]
+description: "Pagina personale accademica"
+lang: it
+# Per un sito di progetto (https://flipper-998.github.io/paiano/) baseurl è "/paiano".
+# Se sposti il sito nella repo flipper-998.github.io, imposta baseurl: "".
+baseurl: "/paiano"
+url: "https://flipper-998.github.io"
+
+author:
+  name: "Nome Cognome"           # [DA COMPILARE]
+  position: "Posizione"          # es. Dottorando in Matematica [DA COMPILARE]
+  affiliation: "Istituzione"     # [DA COMPILARE]
+  email: ""                      # opzionale, es. nome@universita.it
+  orcid: ""                      # opzionale, es. 0000-0000-0000-0000
+  arxiv: ""                      # opzionale, URL della pagina autore arXiv
+  scholar: ""                    # opzionale, URL di Google Scholar
+  github: "Flipper-998"
+
+nav:
+  - { title: "Home", url: "/" }
+  - { title: "Pubblicazioni", url: "/pubblicazioni/" }
+  - { title: "Attività", url: "/attivita/" }
+  - { title: "CV", url: "/cv/" }
+
+markdown: kramdown
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]

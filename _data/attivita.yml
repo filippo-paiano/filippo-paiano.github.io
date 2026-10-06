@@ -1,0 +1,8 @@
+# Seminari, conferenze, scuole, didattica. Campi: anno, descrizione (Markdown ammesso), sezione.
+# Le voci sotto sono SEGNAPOSTO.
+- sezione: "Seminari e conferenze"
+  voci:
+    - { anno: 2026, descrizione: "Titolo del talk, *Nome conferenza*, Città" }
+- sezione: "Didattica"
+  voci:
+    - { anno: 2026, descrizione: "Esercitazioni di *Nome corso*, Università" }
