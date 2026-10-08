@@ -12,13 +12,13 @@
 - section: "Organization"
   items:
     - { year: 2026, title: "*Regularity and geometric aspects of nonlinear PDEs II*", note: "Pisa · January 26–28 · with G. Siclari and [Prof. B. Velichkov](http://www.velichkov.it/)" }
-    - { year: 2025, title: "*Workshop Calculus of Variations and Free Boundary Problems: the VAREG edition*", note: "Pisa · December 9 · with G. Bevilacqua and [Prof. B. Velichkov](http://www.velichkov.it/)" }
+    - { year: 2025, title: "*Workshop Calculus of Variations and Free Boundary Problems: the VAREG edition*", note: "Pisa · December 9 · with [G. Bevilacqua](https://sites.google.com/view/giuliabevilacquamath/home-page) and [Prof. B. Velichkov](http://www.velichkov.it/)" }
     - { year: "2025–2026", title: "*Regularity theory for varifolds with bounded mean curvature*", note: "Reading course based on L. Simon's *Introduction to Geometric Measure Theory*" }
-    - { year: "2023–", title: "*Seminari MAP*", note: "Undergraduate seminars in Mathematical Analysis and Probability, co-organized with PhD students of the University of Pisa and the Scuola Normale Superiore" }
+    - { year: "2023–", title: "[*Seminari MAP*](https://sites.google.com/view/seminarimap/home-page)", note: "Undergraduate seminars in Mathematical Analysis and Probability, co-organized with PhD students of the University of Pisa and the Scuola Normale Superiore" }
 - section: "Teaching"
   items:
     - { year: "2026–2027", title: "Teaching assistant, *Functional Analysis* (MSc in Mathematics)", note: "University of Pisa · course held by [Prof. B. Velichkov](http://www.velichkov.it/) and, from fall 2026, [Prof. G. Alberti](https://people.dm.unipi.it/alberti/)" }
-    - { year: 2022, title: "Teaching assistant, *Analysis IV*", note: "ETH Zürich · spring 2022 · I helped write the lecture notes of the course held by [Prof. Mikaela Iacobelli](https://people.math.ethz.ch/~imikaela/)" }
+    - { year: 2022, title: "Teaching assistant, *Analysis IV*", note: "ETH Zürich · spring 2022 · I helped write the lecture notes of the course held by [Prof. M. Iacobelli](https://people.math.ethz.ch/~imikaela/)" }
     - { year: "2021, 2022", title: "First-year tutor", note: "University of Pisa · fall semesters · Algebra, Linear Algebra, Calculus" }
 - section: "Projects"
   items:
