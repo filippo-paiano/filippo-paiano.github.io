@@ -1,24 +1,25 @@
-# Pagina personale accademica
+# Personal academic page
 
-Sito statico Jekyll, senza tema esterno né JavaScript. GitHub Pages lo compila da solo.
+Static Jekyll site with no external theme and no JavaScript. GitHub Pages builds it natively.
 
-## Dove modificare
+## Where to edit
 
-| Cosa | File |
+| What | File |
 |---|---|
-| Nome, posizione, affiliazione, link | `_config.yml` |
-| Presentazione (home) | `index.md` |
-| Pubblicazioni | `_data/pubblicazioni.yml` |
-| Seminari, didattica, ecc. | `_data/attivita.yml` |
-| CV | `cv/index.md` e `assets/cv.pdf` |
-| Stile | `assets/style.css` |
+| Name, position, affiliation, links | `_config.yml` |
+| Home text | `index.md` |
+| Publications | `_data/publications.yml` |
+| Talks, organization, teaching, projects | `_data/activities.yml` |
+| Short CV | `cv/index.md` |
+| Full CV (PDF) | `assets/cv.pdf` |
+| Style | `assets/style.css` |
 
-## Pubblicazione
+## Publishing
 
-Settings → Pages → Source: "Deploy from a branch", branch `main`, cartella `/ (root)`.
-Il sito sarà su https://filippo-paiano.github.io/.
+Settings → Pages → Source: "Deploy from a branch", branch `main`, folder `/ (root)`.
+The site will be at https://filippo-paiano.github.io/.
 
-## Anteprima locale
+## Local preview
 
     gem install jekyll
     jekyll serve

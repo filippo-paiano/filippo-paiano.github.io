@@ -31,5 +31,5 @@ h2 { font-size: 1.1rem; font-weight: normal; margin: 2rem 0 .75rem; padding-bott
 ul.voci { list-style: none; padding: 0; }
 ul.voci li { margin-bottom: .9rem; }
 .tenue { color: var(--tenue); }
-.anno { color: var(--tenue); display: inline-block; min-width: 3.5rem; }
+.anno { color: var(--tenue); display: inline-block; min-width: 6rem; }
 footer { margin-top: 4rem; font-size: .85rem; color: var(--tenue); }

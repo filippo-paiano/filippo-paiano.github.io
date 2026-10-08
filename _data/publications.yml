@@ -1,0 +1,19 @@
+# One entry per item. Fields: title, authors, venue, year, type (article | preprint), link (optional), arxiv (optional, e.g. 2606.00885).
+- title: "Energy dissipation and free boundary stability of the Stefan problem"
+  authors: "F. Paiano, B. Velichkov"
+  venue: "Preprint"
+  year: 2026
+  type: preprint
+  arxiv: ""   # TODO: your CV lists arXiv:2606.00885 for both preprints
+- title: "An elliptic regularization approach to the Stefan problem"
+  authors: "F. Paiano, B. Velichkov"
+  venue: "Preprint"
+  year: 2026
+  type: preprint
+  arxiv: ""   # TODO: your CV lists arXiv:2606.00885 for both preprints
+- title: "Regularity for free boundary surfaces minimizing degenerate area functionals"
+  authors: "C. Gasparetto, F. Paiano, B. Velichkov"
+  venue: "Calc. Var. Partial Differential Equations 65, article no. 208"
+  year: 2026
+  type: article
+  link: ""

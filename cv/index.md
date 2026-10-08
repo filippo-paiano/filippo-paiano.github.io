@@ -2,22 +2,14 @@
 layout: default
 title: CV
 ---
-<p class="tenue">Versione PDF: <a href="{{ '/assets/cv.pdf' | relative_url }}">cv.pdf</a> (carica il file in <code>assets/cv.pdf</code>).</p>
+<p><a href="{{ '/assets/cv.pdf' | relative_url }}">Full CV (PDF)</a></p>
 
-## Formazione
-
-<ul class="voci">
-  <li><span class="anno">2026</span>[DA COMPILARE] Titolo, Università</li>
-</ul>
-
-## Posizioni
+## Education
 
 <ul class="voci">
-  <li><span class="anno">2026–</span>[DA COMPILARE] Posizione, Istituzione</li>
+  <li><span class="anno">2023–</span>PhD in Mathematics, University of Pisa. Advisor: B. Velichkov.</li>
+  <li><span class="anno">2023</span>MSc in Mathematics, University of Pisa, 110/110 cum laude. Thesis: <em>A direct proof of C<sup>k,α</sup>-regularity of minimal surfaces</em> (advisor: J. Serra). Exchange semester at ETH Zürich, 2022.</li>
+  <li><span class="anno">2020</span>BSc in Mathematics, University of Pisa, 110/110 cum laude. Thesis: <em>Characteristic Classes and Chern–Weil Theory</em> (advisor: B. Martelli).</li>
 </ul>
 
-## Premi e borse
-
-<ul class="voci">
-  <li><span class="anno">2026</span>[DA COMPILARE]</li>
-</ul>
+See [Publications]({{ '/publications/' | relative_url }}) and [Activities]({{ '/activities/' | relative_url }}) for papers, talks, organization and teaching.

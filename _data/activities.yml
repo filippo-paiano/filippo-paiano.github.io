@@ -1,0 +1,25 @@
+# Fields: when (free text), text (Markdown allowed). Source: CV, October 2026.
+- section: "Invited talks"
+  items:
+    - { when: "Oct 12–14", text: "*Young researchers in Ferrara: between Analysis and Geometry*, Ferrara" }
+    - { when: "Jun 2026", text: "*Regularity Theory for Free Boundary and Geometric Variational Problems V*, Cervia (June 15–19)" }
+    - { when: "Jun 2026", text: "*Shape Optimization & Spectral Minimal Partitions*, Aveiro (June 8–12), contributed talk" }
+    - { when: "Jun 2026", text: "*Bernoulli's Round Table*, Basel (June 4)" }
+    - { when: "Jun 2026", text: "*An Afternoon of Fluid Dynamics*, Basel (June 3)" }
+    - { when: "Dec 2025", text: "*Workshop Calculus of Variations and Free Boundary Problems: the VAREG edition*, Pisa (December 9)" }
+    - { when: "Sep 2025", text: "*Young Researchers Meeting on PDEs II*, Milan (September 9–12)" }
+    - { when: "Dec 2024", text: "*ASK Conference 2024*, Bologna (December 18–20)" }
+- section: "Organization"
+  items:
+    - { when: "2025–2026", text: "*Regularity theory for varifolds with bounded mean curvature*, reading course based on L. Simon's *Introduction to Geometric Measure Theory*" }
+    - { when: "Jan 2026", text: "*Regularity and geometric aspects of nonlinear PDEs II*, Pisa (January 26–28), with G. Siclari and B. Velichkov" }
+    - { when: "Dec 2025", text: "*Workshop Calculus of Variations and Free Boundary Problems: the VAREG edition*, Pisa (December 9), with G. Bevilacqua and B. Velichkov" }
+    - { when: "2023–", text: "*Seminari MAP*, undergraduate seminars in Mathematical Analysis and Probability, co-organized with PhD students of the University of Pisa and the Scuola Normale Superiore" }
+- section: "Teaching"
+  items:
+    - { when: "2026–2027", text: "Teaching assistant, Functional Analysis (MSc in Mathematics), University of Pisa; course held by B. Velichkov and, from fall 2026, G. Alberti" }
+    - { when: "Spring 2022", text: "Teaching assistant, *Analysis IV*, ETH Zürich; co-author of the official lecture notes" }
+    - { when: "2021, 2022", text: "First-year tutor (Algebra, Linear Algebra, Calculus), University of Pisa" }
+- section: "Projects"
+  items:
+    - { when: "2026", text: "Member of the INδAM–GNAMPA project *Struttura fine e regolarità in problemi variazionali non-lineari* (PI: G. Tortone, University of Turin)" }

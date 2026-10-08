@@ -1,25 +1,25 @@
-# Impostazioni del sito. Modifica i campi segnati con [DA COMPILARE].
-title: "Nome Cognome"            # [DA COMPILARE]
-description: "Pagina personale accademica"
-lang: it
-# Sito utente (filippo-paiano.github.io): baseurl vuoto.
+# Site settings.
+title: "Filippo Paiano"
+description: "PhD student in Mathematics, University of Pisa. Calculus of variations and free boundary problems."
+lang: en
+# User site (filippo-paiano.github.io): empty baseurl.
 baseurl: ""
 url: "https://filippo-paiano.github.io"
 
 author:
-  name: "Nome Cognome"           # [DA COMPILARE]
-  position: "Posizione"          # es. Dottorando in Matematica [DA COMPILARE]
-  affiliation: "Istituzione"     # [DA COMPILARE]
-  email: ""                      # opzionale, es. nome@universita.it
-  orcid: ""                      # opzionale, es. 0000-0000-0000-0000
-  arxiv: ""                      # opzionale, URL della pagina autore arXiv
-  scholar: ""                    # opzionale, URL di Google Scholar
+  name: "Filippo Paiano"
+  position: "PhD student in Mathematics"
+  affiliation: "Department of Mathematics, University of Pisa"
+  email: "filippo.paiano@phd.unipi.it"
+  orcid: ""                      # optional, e.g. 0000-0000-0000-0000
+  arxiv: ""                      # optional, URL of the arXiv author page
+  scholar: ""                    # optional, Google Scholar URL
   github: "filippo-paiano"
 
 nav:
   - { title: "Home", url: "/" }
-  - { title: "Pubblicazioni", url: "/pubblicazioni/" }
-  - { title: "Attività", url: "/attivita/" }
+  - { title: "Publications", url: "/publications/" }
+  - { title: "Activities", url: "/activities/" }
   - { title: "CV", url: "/cv/" }
 
 markdown: kramdown

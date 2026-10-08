@@ -6,7 +6,7 @@ layout: default
   {{ site.author.affiliation }}
 </p>
 
-[DA COMPILARE] Breve presentazione: interessi di ricerca, gruppo, supervisore.
+I work on calculus of variations and PDEs, more specifically on geometric variational problems and on elliptic and parabolic free boundary problems. My advisor is Bozhidar Velichkov.
 
 <p class="tenue">
   {% if site.author.email != "" %}{{ site.author.email }} · {% endif %}
