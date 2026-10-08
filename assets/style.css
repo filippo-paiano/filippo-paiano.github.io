@@ -1,12 +1,13 @@
+/* Soft palette: warm off-white, slate text, muted blue links. */
 :root {
-  --testo: #1a1a1a;
-  --tenue: #666;
-  --sfondo: #fff;
-  --link: #1a4fa0;
-  --linea: #ddd;
+  --testo: #3a3f47;
+  --tenue: #7d8590;
+  --sfondo: #f7f5f1;
+  --link: #4f7396;
+  --linea: #e3dfd7;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --testo: #e6e6e6; --tenue: #999; --sfondo: #141414; --link: #8fb4ff; --linea: #333; }
+  :root { --testo: #cfcdc8; --tenue: #8a8f98; --sfondo: #1f2124; --link: #8fadc9; --linea: #32353a; }
 }
 * { box-sizing: border-box; }
 html { font-size: 17px; }
@@ -31,5 +32,9 @@ h2 { font-size: 1.1rem; font-weight: normal; margin: 2rem 0 .75rem; padding-bott
 ul.voci { list-style: none; padding: 0; }
 ul.voci li { margin-bottom: .9rem; }
 .tenue { color: var(--tenue); }
-.anno { color: var(--tenue); display: inline-block; min-width: 6rem; }
+.nota { display: block; font-size: .85rem; color: var(--tenue); line-height: 1.4; margin-top: .1rem; padding-left: 0; text-indent: 0; }
+.anno { color: var(--tenue); display: inline-block; min-width: 6rem; text-indent: 0; }
+.contatti span + span::before { content: " · "; }
+.date-list li { padding-left: 6rem; text-indent: -6rem; }
+@media (max-width: 30rem) { .date-list li { padding-left: 0; text-indent: 0; } .anno { display: block; min-width: 0; } }
 footer { margin-top: 4rem; font-size: .85rem; color: var(--tenue); }
