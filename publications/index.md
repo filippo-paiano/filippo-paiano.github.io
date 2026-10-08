@@ -2,6 +2,8 @@
 layout: default
 title: Publications
 ---
+<p class="tenue">All my publications are available on the <a href="{{ site.author.arxiv | escape }}">arXiv</a> and <a href="{{ site.author.cvgmt }}">cvgmt</a> repositories.</p>
+
 {% assign groups = "article:Journal articles,preprint:Preprints" | split: "," %}
 {% for g in groups %}
   {% assign pair = g | split: ":" %}

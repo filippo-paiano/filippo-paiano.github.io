@@ -8,7 +8,7 @@ title: CV
 
 <ul class="voci date-list">
   <li><span class="anno">2023–</span>PhD in Mathematics, University of Pisa
-    <span class="nota">Advisor: Prof. Bozhidar Velichkov</span></li>
+    <span class="nota">Advisor: <a href="http://www.velichkov.it/">Prof. Bozhidar Velichkov</a></span></li>
   <li><span class="anno">2020–2023</span>MSc in Mathematics, University of Pisa
     <span class="nota">Exchange semester at ETH Zürich, 2022</span>
     <span class="nota">Thesis: <em>A direct proof of C<sup>k,α</sup>-regularity of minimal surfaces</em>. Advisor: Prof. Joaquim Serra</span></li>

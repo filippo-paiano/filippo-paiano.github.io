@@ -7,7 +7,7 @@
   --linea: #e3dfd7;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --testo: #cfcdc8; --tenue: #8a8f98; --sfondo: #1f2124; --link: #8fadc9; --linea: #32353a; }
+  :root { --testo: #d6d4cf; --tenue: #949aa3; --sfondo: #2c2f34; --link: #8fadc9; --linea: #43474d; }
 }
 * { box-sizing: border-box; }
 html { font-size: 17px; }
