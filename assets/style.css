@@ -1,13 +1,13 @@
 /* Soft palette: warm off-white, slate text, muted blue links. */
 :root {
-  --testo: #3a3f47;
-  --tenue: #7d8590;
-  --sfondo: #f7f5f1;
+  --testo: #2e323a;
+  --tenue: #6f7680;
+  --sfondo: #f1eee8;
   --link: #4f7396;
-  --linea: #e3dfd7;
+  --linea: #d9d4ca;
 }
 @media (prefers-color-scheme: dark) {
-  :root { --testo: #d6d4cf; --tenue: #949aa3; --sfondo: #2c2f34; --link: #8fadc9; --linea: #43474d; }
+  :root { --testo: #dcdad5; --tenue: #9aa0a8; --sfondo: #383c42; --link: #9ab6d0; --linea: #50555c; }
 }
 * { box-sizing: border-box; }
 html { font-size: 17px; }
