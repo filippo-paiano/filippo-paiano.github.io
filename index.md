@@ -5,7 +5,7 @@ layout: default
   <div class="home-main">
     <p>
       {{ site.author.position }}<br>
-      <a href="{{ site.author.affiliation_url }}">{{ site.author.affiliation }}</a>
+      {{ site.author.affiliation }}
     </p>
     <p>I work on calculus of variations and PDEs, more specifically on geometric variational problems and on elliptic and parabolic free boundary problems. My advisor is <a href="http://www.velichkov.it/">Prof. Bozhidar Velichkov</a>.</p>
     <p>See my <a href="{{ '/publications/' | relative_url }}">publications</a>, <a href="{{ '/activities/' | relative_url }}">activities</a> and <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
