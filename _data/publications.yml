@@ -1,4 +1,4 @@
-# One entry per item. Fields: title, authors, venue, year, type (article | preprint), link (optional), arxiv (optional, e.g. 2606.00885).
+# One entry per item. Fields: title, authors, venue, year, type (article | preprint), doi (optional), arxiv (optional, e.g. 2606.00885). venue accepts Markdown..
 - title: "Energy dissipation and free boundary stability of the Stefan problem"
   authors: "F. Paiano, B. Velichkov"
   venue: "Preprint"
@@ -13,7 +13,7 @@
   arxiv: "2606.00885"
 - title: "Regularity for free boundary surfaces minimizing degenerate area functionals"
   authors: "C. Gasparetto, F. Paiano, B. Velichkov"
-  venue: "Calc. Var. Partial Differential Equations 65, article no. 208"
+  venue: "*Calc. Var. Partial Differential Equations* 65, article no. 208"
   year: 2026
   type: article
-  link: "https://doi.org/10.1007/s00526-026-03361-x"
+  doi: "10.1007/s00526-026-03361-x"
