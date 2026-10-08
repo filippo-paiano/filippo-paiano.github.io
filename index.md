@@ -7,7 +7,7 @@ layout: default
       {{ site.author.position }}<br>
       {{ site.author.affiliation }}
     </p>
-    <p>I work on calculus of variations and PDEs, more specifically on geometric variational problems and on elliptic and parabolic free boundary problems. My advisor is Bozhidar Velichkov.</p>
+    <p>I work on calculus of variations and PDEs, more specifically on geometric variational problems and on elliptic and parabolic free boundary problems. My advisor is Prof. Bozhidar Velichkov.</p>
     <p>See my <a href="{{ '/publications/' | relative_url }}">publications</a>, <a href="{{ '/activities/' | relative_url }}">activities</a> and <a href="{{ '/cv/' | relative_url }}">CV</a>.</p>
   </div>
 
