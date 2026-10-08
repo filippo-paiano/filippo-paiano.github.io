@@ -34,7 +34,17 @@ ul.voci li { margin-bottom: .9rem; }
 .tenue { color: var(--tenue); }
 .nota { display: block; font-size: .85rem; color: var(--tenue); line-height: 1.4; margin-top: .1rem; padding-left: 0; text-indent: 0; }
 .anno { color: var(--tenue); display: inline-block; min-width: 6rem; text-indent: 0; }
-.contatti span + span::before { content: " · "; }
 .date-list li { padding-left: 6rem; text-indent: -6rem; }
 @media (max-width: 30rem) { .date-list li { padding-left: 0; text-indent: 0; } .anno { display: block; min-width: 0; } }
 footer { margin-top: 4rem; font-size: .85rem; color: var(--tenue); }
+
+/* Home: bio on the left, contact card on the right. */
+.home { display: grid; grid-template-columns: 1fr 15rem; gap: 2.5rem; align-items: start; }
+.home-main p:first-child { margin-top: 0; }
+.contatti { font-size: .9rem; line-height: 1.45; padding: 1rem 1.1rem; border: 1px solid var(--linea); border-radius: 6px; background: color-mix(in srgb, var(--sfondo) 94%, var(--testo)); }
+.contatti dl { margin: 0; }
+.contatti dt { color: var(--tenue); font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; margin-top: .8rem; }
+.contatti dt:first-child { margin-top: 0; }
+.contatti dd { margin: .1rem 0 0; }
+.contatti .foto { display: block; width: 100%; border-radius: 4px; margin-bottom: 1rem; }
+@media (max-width: 40rem) { .home { grid-template-columns: 1fr; gap: 1.5rem; } }
