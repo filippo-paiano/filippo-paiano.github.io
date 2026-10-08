@@ -32,8 +32,9 @@ h2 { font-size: 1.1rem; font-weight: normal; margin: 2rem 0 .75rem; padding-bott
 ul.voci { list-style: none; padding: 0; }
 ul.voci li { margin-bottom: .9rem; }
 .tenue { color: var(--tenue); }
-.nota { display: block; font-size: .85rem; color: var(--tenue); line-height: 1.4; margin-top: .1rem; padding-left: 6rem; }
-.anno { color: var(--tenue); display: inline-block; min-width: 6rem; }
+.nota { display: block; font-size: .85rem; color: var(--tenue); line-height: 1.4; margin-top: .1rem; padding-left: 0; text-indent: 0; }
+.anno { color: var(--tenue); display: inline-block; min-width: 6rem; text-indent: 0; }
 .contatti span + span::before { content: " · "; }
-@media (max-width: 30rem) { .anno { display: block; min-width: 0; } .nota { padding-left: 0; } }
+.date-list li { padding-left: 6rem; text-indent: -6rem; }
+@media (max-width: 30rem) { .date-list li { padding-left: 0; text-indent: 0; } .anno { display: block; min-width: 0; } }
 footer { margin-top: 4rem; font-size: .85rem; color: var(--tenue); }

@@ -6,7 +6,7 @@ title: CV
 
 ## Education
 
-<ul class="voci">
+<ul class="voci date-list">
   <li><span class="anno">2023–</span>PhD in Mathematics, University of Pisa
     <span class="nota">Advisor: Bozhidar Velichkov</span></li>
   <li><span class="anno">2020–2023</span>MSc in Mathematics, University of Pisa
