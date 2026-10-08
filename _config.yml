@@ -1,0 +1,27 @@
+# Site settings.
+title: "Filippo Paiano"
+description: "PhD student in Mathematics, University of Pisa. Calculus of variations and free boundary problems."
+lang: en
+# User site (filippo-paiano.github.io): empty baseurl.
+baseurl: ""
+url: "https://filippo-paiano.github.io"
+
+author:
+  name: "Filippo Paiano"
+  position: "PhD student in Mathematics"
+  affiliation: "Department of Mathematics, University of Pisa"
+  email: "filippo.paiano - at - phd.unipi.it"   # obfuscated on purpose, do not link
+  orcid: ""                      # optional, e.g. 0000-0000-0000-0000
+  arxiv: "https://arxiv.org/search/math?searchtype=author&query=Paiano%2C+F"
+  cvgmt: "https://cvgmt.sns.it/person/5083/"
+  scholar: ""                    # optional, Google Scholar URL
+  github: "filippo-paiano"
+
+nav:
+  - { title: "Home", url: "/" }
+  - { title: "Publications", url: "/publications/" }
+  - { title: "Activities", url: "/activities/" }
+  - { title: "CV", url: "/cv/" }
+
+markdown: kramdown
+exclude: [README.md, Gemfile, Gemfile.lock, vendor]
