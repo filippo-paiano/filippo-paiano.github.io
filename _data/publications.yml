@@ -4,16 +4,16 @@
   venue: "Preprint"
   year: 2026
   type: preprint
-  arxiv: ""   # TODO: your CV lists arXiv:2606.00885 for both preprints
+  arxiv: "2610.06267"
 - title: "An elliptic regularization approach to the Stefan problem"
   authors: "F. Paiano, B. Velichkov"
   venue: "Preprint"
   year: 2026
   type: preprint
-  arxiv: ""   # TODO: your CV lists arXiv:2606.00885 for both preprints
+  arxiv: "2606.00885"
 - title: "Regularity for free boundary surfaces minimizing degenerate area functionals"
   authors: "C. Gasparetto, F. Paiano, B. Velichkov"
   venue: "Calc. Var. Partial Differential Equations 65, article no. 208"
   year: 2026
   type: article
-  link: ""
+  link: "https://doi.org/10.1007/s00526-026-03361-x"

@@ -1,7 +1,7 @@
 # Fields: when (free text), text (Markdown allowed). Source: CV, October 2026.
 - section: "Invited talks"
   items:
-    - { when: "Oct 12–14", text: "*Young researchers in Ferrara: between Analysis and Geometry*, Ferrara" }
+    - { when: "Oct 2026", text: "*Young researchers in Ferrara: between Analysis and Geometry*, Ferrara (October 12–14)" }
     - { when: "Jun 2026", text: "*Regularity Theory for Free Boundary and Geometric Variational Problems V*, Cervia (June 15–19)" }
     - { when: "Jun 2026", text: "*Shape Optimization & Spectral Minimal Partitions*, Aveiro (June 8–12), contributed talk" }
     - { when: "Jun 2026", text: "*Bernoulli's Round Table*, Basel (June 4)" }

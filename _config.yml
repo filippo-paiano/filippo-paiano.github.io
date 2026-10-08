@@ -12,7 +12,8 @@ author:
   affiliation: "Department of Mathematics, University of Pisa"
   email: "filippo.paiano@phd.unipi.it"
   orcid: ""                      # optional, e.g. 0000-0000-0000-0000
-  arxiv: ""                      # optional, URL of the arXiv author page
+  arxiv: "https://arxiv.org/search/math?searchtype=author&query=Paiano%2C+F"
+  cvgmt: "https://cvgmt.sns.it/person/5083/"
   scholar: ""                    # optional, Google Scholar URL
   github: "filippo-paiano"
 
