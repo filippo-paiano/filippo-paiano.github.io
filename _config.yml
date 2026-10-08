@@ -10,6 +10,7 @@ author:
   name: "Filippo Paiano"
   position: "PhD student in Mathematics"
   affiliation: "Department of Mathematics, University of Pisa"
+  affiliation_url: "https://www.dm.unipi.it/"
   photo: ""                      # optional, e.g. /assets/photo.jpg
   office: "Office 320, first floor"
   address: "Largo Bruno Pontecorvo, 5, Pisa, Italy"
