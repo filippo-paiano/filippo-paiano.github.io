@@ -16,7 +16,7 @@ Sito statico Jekyll, senza tema esterno né JavaScript. GitHub Pages lo compila 
 ## Pubblicazione
 
 Settings → Pages → Source: "Deploy from a branch", branch `main`, cartella `/ (root)`.
-Il sito sarà su https://flipper-998.github.io/paiano/.
+Il sito sarà su https://filippo-paiano.github.io/.
 
 ## Anteprima locale
 

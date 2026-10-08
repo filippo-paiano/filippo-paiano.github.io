@@ -2,10 +2,9 @@
 title: "Nome Cognome"            # [DA COMPILARE]
 description: "Pagina personale accademica"
 lang: it
-# Per un sito di progetto (https://flipper-998.github.io/paiano/) baseurl è "/paiano".
-# Se sposti il sito nella repo flipper-998.github.io, imposta baseurl: "".
-baseurl: "/paiano"
-url: "https://flipper-998.github.io"
+# Sito utente (filippo-paiano.github.io): baseurl vuoto.
+baseurl: ""
+url: "https://filippo-paiano.github.io"
 
 author:
   name: "Nome Cognome"           # [DA COMPILARE]
@@ -15,7 +14,7 @@ author:
   orcid: ""                      # opzionale, es. 0000-0000-0000-0000
   arxiv: ""                      # opzionale, URL della pagina autore arXiv
   scholar: ""                    # opzionale, URL di Google Scholar
-  github: "Flipper-998"
+  github: "filippo-paiano"
 
 nav:
   - { title: "Home", url: "/" }
