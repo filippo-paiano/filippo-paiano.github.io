@@ -1,5 +1,7 @@
 # Site settings.
 title: "Filippo Paiano"
+# Appended to the title of the home page only (shows in the browser tab and in search results).
+tagline: "Mathematics"
 description: "PhD student in Mathematics, University of Pisa. Calculus of variations and free boundary problems."
 lang: en
 # User site (filippo-paiano.github.io): empty baseurl.
